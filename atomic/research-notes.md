@@ -21,5 +21,5 @@ Checked 27 September 2026. Independent concise companion, not the complete book.
 ## Interpretation limits
 The 1% compounding calculation illustrates accumulation; it does not promise 37-fold real-world improvement. There is no universal 21-day habit deadline. Habit design does not remove social, economic or medical constraints.
 
-## Open scope question
-The spoken reference to Sukot may mean Sukkot or the four laws of behaviour change. This companion covers Atomic Habits; religious-law work requires a separate scope.
+## Sukkot connection
+This standalone companion is linked from the Sukkot study guide. The religious-law sources and original habit analogies are available at ../index.html.

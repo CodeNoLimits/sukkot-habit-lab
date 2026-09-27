@@ -231,7 +231,8 @@
     "bullets": [
       "Required meals and sleep belong in the sukkah, subject to exemptions.",
       "The first night has a special bread obligation; amounts and rain need care.",
-      "Meal thresholds, blessings and sleeping customs need your community guidance."
+      "Meal thresholds, blessings and sleeping customs need your community guidance.",
+      "The first-night bread obligation begins after nightfall: at least a kezayit, preferably before halakhic midnight, with community guidance on measures."
     ],
     "parallel": "Attach the meal routine to moving into the sukkah.",
     "narration": "Dwelling in the sukkah includes required meals and sleep, subject to exemptions. Link your meal preparation to entering the sukkah, creating a reliable cue for the mitzvah.",
@@ -295,7 +296,7 @@
     "bullets": [
       "The first-night sequence includes wine, festival sanctification, sukkah and time.",
       "Standing and sitting customs differ between authorities.",
-      "Use your tradition\u2019s siddur for the exact sequence and text."
+      "Use your tradition’s siddur for the exact sequence and text."
     ],
     "parallel": "Make the next step visible in the correct sequence.",
     "narration": "The first-night Kiddush has an ordered sequence. Prepare the correct siddur beforehand; a clear cue and response reduce confusion without changing the ritual.",
@@ -375,7 +376,7 @@
     "bullets": [
       "Check dryness, missing material, the top, stem, stains and shape.",
       "A naturally absent pitam differs from one that broke off.",
-      "Minimum size is an egg\u2019s volume; grafting requires reliable provenance."
+      "Minimum size is an egg’s volume; grafting requires reliable provenance."
     ],
     "parallel": "Learn one inspection skill at a time without overlooking validity.",
     "narration": "An etrog has rules about defects and reliable provenance. Learn its inspection carefully, one skill at a time; gradual learning never excuses using an invalid specimen.",
@@ -390,11 +391,11 @@
     "atomic": 20,
     "bullets": [
       "Stolen species are unacceptable; acquisition details need careful review.",
-      "Some defects differ between the first day and later days.",
+      "Wrong species and specimens below the minimum size remain invalid throughout the festival; later-day leniencies apply only to particular defects.",
       "Sephardic and Ashkenazic rulings differ on several invalidities."
     ],
-    "parallel": "Recheck the context rather than applying yesterday\u2019s rule automatically.",
-    "narration": "Some four-species defects have different first-day and later-day rules. Review the context instead of repeating yesterday\u2019s judgment automatically; correct practice includes thoughtful reassessment.",
+    "parallel": "Recheck the context rather than applying yesterday’s rule automatically.",
+    "narration": "Some four-species defects have different first-day and later-day rules. Review the context instead of repeating yesterday’s judgment automatically; correct practice includes thoughtful reassessment.",
     "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.649",
     "status": "Principle / details in source",
     "video": "media/law-649.mp4"
@@ -407,7 +408,7 @@
     "bullets": [
       "The lulav spine requires four tefachim.",
       "Myrtle and willow require three tefachim.",
-      "The lulav spine must extend above the other branches; measurement traditions differ."
+      "The lulav spine must extend at least one tefach above the hadasim and aravot; measurement traditions and exceptional cases need guidance."
     ],
     "parallel": "Prepare a suitable measuring tool before shopping.",
     "narration": "The species have minimum measurements in tefachim. Prepare an appropriate measuring tool before shopping; deciding in advance reduces friction while preserving the actual requirement.",
@@ -423,7 +424,8 @@
     "bullets": [
       "Use one lulav, three myrtle branches, two willow branches and one etrog.",
       "Take them in their growth orientation; bless before completing the act.",
-      "Handedness, binding, shaking order and interpositions have tradition-specific details."
+      "Handedness, binding, shaking order and interpositions have tradition-specific details.",
+      "Women are exempt from taking the four species; voluntary participation and blessings follow established community practice."
     ],
     "parallel": "Practise the sequence before the festival; the complete mitzvah remains required.",
     "narration": "All four species belong in the mitzvah, with the correct arrangement and orientation. Practise the sequence beforehand; rehearsal helps, but never replaces the complete required act.",
@@ -551,7 +553,7 @@
     "bullets": [
       "The chapter specifies the festival Torah readings and maftir.",
       "The schedule follows the festival and location.",
-      "Use the local synagogue\u2019s calendar rather than extrapolating from another place."
+      "Use the local synagogue’s calendar rather than extrapolating from another place."
     ],
     "parallel": "Keep the correct calendar where it will be used.",
     "narration": "Festival Torah readings follow the correct day and location. Keep the local calendar visible; a well-placed cue makes accuracy easier during a busy week.",
@@ -567,7 +569,7 @@
     "bullets": [
       "The chapter describes daily circling and seven circuits on the seventh day.",
       "Shabbat, possession of species and mourning affect participation customs.",
-      "Follow the synagogue\u2019s order and do not invent a universal arrangement."
+      "Follow the synagogue’s order and do not invent a universal arrangement."
     ],
     "parallel": "Let a knowledgeable community guide a shared routine.",
     "narration": "Hoshanot has day-specific practices and community customs. Join the correct local order; a supportive group helps participation without erasing differences between traditions.",
@@ -601,8 +603,8 @@
       "Shehecheyanu is not repeated routinely for the species on day two.",
       "If day one was Shabbat, the first actual taking has its own blessing sequence."
     ],
-    "parallel": "Track completion accurately while respecting each day\u2019s conditions.",
-    "narration": "Festival practice continues, but first-time blessings are not repeated automatically. Track the actual completed action and the day\u2019s conditions, rather than confusing a streak with correct practice.",
+    "parallel": "Track completion accurately while respecting each day’s conditions.",
+    "narration": "Festival practice continues, but first-time blessings are not repeated automatically. Track the actual completed action and the day’s conditions, rather than confusing a streak with correct practice.",
     "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.662",
     "status": "Principle / details in source",
     "video": "media/law-662.mp4"
@@ -631,7 +633,7 @@
     "bullets": [
       "Hoshana Rabbah has additional prayer and willow customs.",
       "The separate willow practice has no blessing.",
-      "Arrange appropriate branches and follow your community\u2019s handling and disposal customs."
+      "Arrange appropriate branches and follow your community’s handling and disposal customs."
     ],
     "parallel": "Prepare the materials and enjoy completion without inventing a reward ritual.",
     "narration": "Hoshana Rabbah has a separate willow custom without a blessing. Prepare suitable branches in advance; a satisfying finish can support preparation without inventing a new religious ritual.",

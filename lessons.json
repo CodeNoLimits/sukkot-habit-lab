@@ -1,0 +1,642 @@
+[
+  {
+    "id": 625,
+    "title": "Why we dwell in a sukkah",
+    "group": "Sukkah construction",
+    "atomic": 2,
+    "bullets": [
+      "Remember the protection given during the Exodus.",
+      "Intend to fulfil the mitzvah when dwelling in the sukkah.",
+      "Begin practical preparations promptly after Yom Kippur."
+    ],
+    "parallel": "Turn your chosen identity into a visible preparation.",
+    "narration": "The sukkah recalls protection during the Exodus. Connect this intention to one concrete preparation, so your identity becomes an action.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.625",
+    "status": "Principle / details in source",
+    "video": "media/law-625.mp4"
+  },
+  {
+    "id": 626,
+    "title": "Keep the roof under open sky",
+    "group": "Sukkah construction",
+    "atomic": 6,
+    "bullets": [
+      "A building roof or tree above the sukkah can invalidate it.",
+      "Tree branches and mixed coverings require detailed evaluation.",
+      "Retractable roofs must be properly opened for dwelling."
+    ],
+    "parallel": "Make the correct location your default before building.",
+    "narration": "A sukkah needs the right exposure to the sky. Check overhead obstacles first; design your environment before relying on willpower.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.626",
+    "status": "Principle / details in source",
+    "video": "media/law-626.mp4"
+  },
+  {
+    "id": 627,
+    "title": "Avoid an intervening canopy",
+    "group": "Sukkah construction",
+    "atomic": 7,
+    "bullets": [
+      "A bed or canopy can create a separate covering below the roof.",
+      "Height, width and whether a canopy is fixed affect the ruling.",
+      "Do not assume every tent inside a sukkah is acceptable."
+    ],
+    "parallel": "Remove an obstacle before it repeatedly interrupts the mitzvah.",
+    "narration": "An intervening canopy can prevent valid sukkah dwelling. Remove the obstacle in advance, like removing a cue that repeatedly disrupts a useful routine.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.627",
+    "status": "Principle / details in source",
+    "video": "media/law-627.mp4"
+  },
+  {
+    "id": 628,
+    "title": "Check stacked and mobile structures",
+    "group": "Sukkah construction",
+    "atomic": 18,
+    "bullets": [
+      "A sukkah underneath another sukkah has special validity rules.",
+      "A mobile sukkah must withstand an ordinary wind.",
+      "Access involving a tree or animal has festival restrictions."
+    ],
+    "parallel": "Choose a workable setting instead of forcing an unsuitable one.",
+    "narration": "Stacked or mobile sukkahs have special conditions. Choose a suitable setup, just as useful habits need an environment that fits their purpose.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.628",
+    "status": "Principle / details in source",
+    "video": "media/law-628.mp4"
+  },
+  {
+    "id": 629,
+    "title": "Choose valid roof materials",
+    "group": "Sukkah construction",
+    "atomic": 12,
+    "bullets": [
+      "Roof covering must be detached plant material.",
+      "It must not be susceptible to ritual impurity; processed objects need examination.",
+      "Mats, planks, bundles and supports have additional rules."
+    ],
+    "parallel": "Buy appropriate materials early and remove setup friction.",
+    "narration": "Sukkah roof covering must be suitable detached plant material. Prepare approved materials early; reducing friction helps preparation, but never replaces the legal requirements.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.629",
+    "status": "Principle / details in source",
+    "video": "media/law-629.mp4"
+  },
+  {
+    "id": 630,
+    "title": "Build stable, valid walls",
+    "group": "Sukkah construction",
+    "atomic": 17,
+    "bullets": [
+      "Walls may use materials that cannot be used for the roof.",
+      "The minimum two-and-a-partial-third configuration has precise conditions.",
+      "Three complete stable walls simplify many practical questions."
+    ],
+    "parallel": "Arrange a competent inspection partner and a concrete check-in.",
+    "narration": "Sukkah walls must meet stability and layout requirements. Arrange a knowledgeable inspection partner; clear accountability helps you notice problems before the festival.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.630",
+    "status": "Principle / details in source",
+    "video": "media/law-630.mp4"
+  },
+  {
+    "id": 631,
+    "title": "Create the required shade",
+    "group": "Sukkah construction",
+    "atomic": 4,
+    "bullets": [
+      "At roof level, shade must exceed sunlight.",
+      "Holes, uneven roof surfaces and dangling branches have further conditions.",
+      "Prefer comfortable shade without making a permanent rainproof ceiling."
+    ],
+    "parallel": "Observe the actual result instead of guessing.",
+    "narration": "The roof must provide more shade than sunlight. Inspect what is really there; awareness comes before adjustment, just as noticing a routine comes before changing it.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.631",
+    "status": "Principle / details in source",
+    "video": "media/law-631.mp4"
+  },
+  {
+    "id": 632,
+    "title": "Measure gaps and invalid covering",
+    "group": "Sukkah construction",
+    "atomic": 20,
+    "bullets": [
+      "Air gaps and invalid roof materials have different limits.",
+      "Their position can change whether the whole sukkah remains valid.",
+      "Do not treat a simple gap measurement as a full validity certificate."
+    ],
+    "parallel": "Review weak points with a precise checklist.",
+    "narration": "Roof gaps and invalid materials have different rules. Review the weak points carefully; a useful checklist supports attention without deciding complex legal cases for you.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.632",
+    "status": "Principle / details in source",
+    "video": "media/law-632.mp4"
+  },
+  {
+    "id": 633,
+    "title": "Respect the height boundaries",
+    "group": "Sukkah construction",
+    "atomic": 14,
+    "bullets": [
+      "Minimum interior height is ten tefachim.",
+      "Height above twenty amot is invalid.",
+      "Raising floors or lowering coverings involves detailed conditions."
+    ],
+    "parallel": "Make a correct measurement before locking in the structure.",
+    "narration": "A sukkah has minimum and maximum height limits. Measure before construction choices become fixed; a good commitment prevents avoidable work later.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.633",
+    "status": "Principle / details in source",
+    "video": "media/law-633.mp4"
+  },
+  {
+    "id": 634,
+    "title": "Leave enough usable space",
+    "group": "Sukkah construction",
+    "atomic": 13,
+    "bullets": [
+      "The sukkah must contain at least seven by seven tefachim.",
+      "Rounded shapes must contain the required square area.",
+      "Keep the table in the sukkah rather than eating toward a table outside."
+    ],
+    "parallel": "A tiny starting task is helpful; a tiny invalid sukkah is not.",
+    "narration": "A sukkah needs the required usable space. Start preparation with one small task, but never shrink a religious requirement to fit the two-minute habit rule.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.634",
+    "status": "Principle / details in source",
+    "video": "media/law-634.mp4"
+  },
+  {
+    "id": 635,
+    "title": "Create the roof through a valid act",
+    "group": "Sukkah construction",
+    "atomic": 11,
+    "bullets": [
+      "A shelter built for shade can be suitable even without festival-specific intent.",
+      "A structure that simply becomes covered by itself can be invalid.",
+      "Carving space in a haystack needs the construction conditions in the source."
+    ],
+    "parallel": "Perform the real preparatory action instead of only planning it.",
+    "narration": "The roof must result from a valid act of making. Perform the actual preparation; planning alone cannot replace action, either in habit practice or construction.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.635",
+    "status": "Principle / details in source",
+    "video": "media/law-635.mp4"
+  },
+  {
+    "id": 636,
+    "title": "Renew an existing sukkah",
+    "group": "Sukkah construction",
+    "atomic": 1,
+    "bullets": [
+      "An older sukkah has rules concerning renewal for the festival.",
+      "The source describes renewing even a small roof area.",
+      "Festival-specific construction intention affects the older-sukkah case."
+    ],
+    "parallel": "Make one real improvement to a setup you already have.",
+    "narration": "An existing sukkah can call for renewal for the festival. Make a real, small improvement; steady useful action often matters more than rebuilding everything.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.636",
+    "status": "Principle / details in source",
+    "video": "media/law-636.mp4"
+  },
+  {
+    "id": 637,
+    "title": "Borrow respectfully; never steal",
+    "group": "Sukkah construction",
+    "atomic": 9,
+    "bullets": [
+      "A borrowed sukkah can fulfil the mitzvah.",
+      "Stolen materials and unauthorized use require distinct legal analysis.",
+      "If necessary, a sukkah can be built during permitted Chol HaMoed work."
+    ],
+    "parallel": "Use supportive community access with clear permission.",
+    "narration": "A borrowed sukkah can serve the mitzvah. Ask permission clearly and use community support; belonging helps practice, while ownership rights still matter.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.637",
+    "status": "Principle / details in source",
+    "video": "media/law-637.mp4"
+  },
+  {
+    "id": 638,
+    "title": "Respect dedicated materials",
+    "group": "Sukkah construction",
+    "atomic": 7,
+    "bullets": [
+      "Sukkah wood and decorations become restricted for ordinary use.",
+      "Duration and conditions differ between materials and festival settings.",
+      "Do not casually remove or repurpose decorations during the festival."
+    ],
+    "parallel": "Store ordinary substitutes separately to avoid temptation.",
+    "narration": "Dedicated sukkah materials have restrictions on ordinary use. Keep other supplies nearby; removing tempting shortcuts makes it easier to respect what has been set aside.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.638",
+    "status": "Principle / details in source",
+    "video": "media/law-638.mp4"
+  },
+  {
+    "id": 639,
+    "title": "Make the sukkah your dwelling",
+    "group": "Dwelling and blessings",
+    "atomic": 5,
+    "bullets": [
+      "Required meals and sleep belong in the sukkah, subject to exemptions.",
+      "The first night has a special bread obligation; amounts and rain need care.",
+      "Meal thresholds, blessings and sleeping customs need your community guidance."
+    ],
+    "parallel": "Attach the meal routine to moving into the sukkah.",
+    "narration": "Dwelling in the sukkah includes required meals and sleep, subject to exemptions. Link your meal preparation to entering the sukkah, creating a reliable cue for the mitzvah.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.639",
+    "status": "Principle / details in source",
+    "video": "media/law-639.mp4"
+  },
+  {
+    "id": 640,
+    "title": "Understand obligations and exemptions",
+    "group": "Dwelling and blessings",
+    "atomic": 18,
+    "bullets": [
+      "Women are exempt from obligatory sukkah dwelling but may participate.",
+      "Children require age-appropriate education; illness and genuine distress can exempt.",
+      "Travel, essential duties and caregivers have conditions, not blanket exemptions."
+    ],
+    "parallel": "Fit preparation to real circumstances rather than manufacturing an exemption.",
+    "narration": "Illness and genuine distress can create exemptions from sukkah dwelling. Adapt preparation to real circumstances; habit design must respect the law, not invent an exemption.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.640",
+    "status": "Principle / details in source",
+    "video": "media/law-640.mp4"
+  },
+  {
+    "id": 641,
+    "title": "Separate building from its blessings",
+    "group": "Dwelling and blessings",
+    "atomic": 15,
+    "bullets": [
+      "No construction blessing is normally recited for building the sukkah.",
+      "Shehecheyanu is generally included in festival Kiddush.",
+      "Building for someone else and unusual timing have further details."
+    ],
+    "parallel": "Enjoy completing preparation without inventing a religious formula.",
+    "narration": "Building the sukkah does not require inventing a construction blessing. Enjoy finishing preparation; an immediate positive feeling can encourage action without creating a new religious practice.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.641",
+    "status": "Principle / details in source",
+    "video": "media/law-641.mp4"
+  },
+  {
+    "id": 642,
+    "title": "Follow the Shabbat prayer framework",
+    "group": "Dwelling and blessings",
+    "atomic": 9,
+    "bullets": [
+      "When the first festival night is Shabbat, prayer has special wording.",
+      "The seven-blessing summary follows the Shabbat conclusion in this chapter.",
+      "Use the correct communal siddur and prayer setting."
+    ],
+    "parallel": "Use an established group routine rather than improvising.",
+    "narration": "When the festival begins on Shabbat, the prayer framework matters. Follow the correct community text; a supportive group can help a routine stay accurate.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.642",
+    "status": "Principle / details in source",
+    "video": "media/law-642.mp4"
+  },
+  {
+    "id": 643,
+    "title": "Prepare the Kiddush sequence",
+    "group": "Dwelling and blessings",
+    "atomic": 3,
+    "bullets": [
+      "The first-night sequence includes wine, festival sanctification, sukkah and time.",
+      "Standing and sitting customs differ between authorities.",
+      "Use your tradition\u2019s siddur for the exact sequence and text."
+    ],
+    "parallel": "Make the next step visible in the correct sequence.",
+    "narration": "The first-night Kiddush has an ordered sequence. Prepare the correct siddur beforehand; a clear cue and response reduce confusion without changing the ritual.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.643",
+    "status": "Principle / details in source",
+    "video": "media/law-643.mp4"
+  },
+  {
+    "id": 644,
+    "title": "Place the four species in the morning service",
+    "group": "Dwelling and blessings",
+    "atomic": 5,
+    "bullets": [
+      "The morning service includes taking the species and full Hallel.",
+      "The source describes the festival service and blessing traditions.",
+      "Taking the species is omitted on Shabbat, even when Hallel is said."
+    ],
+    "parallel": "Connect preparation to a reliable morning anchor.",
+    "narration": "Taking the four species fits into the morning service, except on Shabbat. Use a reliable morning anchor to remember the preparation and the day-specific rules.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.644",
+    "status": "Principle / details in source",
+    "video": "media/law-644.mp4"
+  },
+  {
+    "id": 645,
+    "title": "Inspect the lulav carefully",
+    "group": "Four species",
+    "atomic": 20,
+    "bullets": [
+      "Inspect the central leaf, spine, top and condition of the leaves.",
+      "Splitting, severing, bending and dryness have distinct rules.",
+      "A borderline lulav needs knowledgeable inspection, not a picture-only verdict."
+    ],
+    "parallel": "Review quality instead of counting possession as completion.",
+    "narration": "A lulav needs careful inspection for specific defects. Review quality, not just ownership; repeating a checklist helps notice mistakes that automatic confidence can hide.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.645",
+    "status": "Principle / details in source",
+    "video": "media/law-645.mp4"
+  },
+  {
+    "id": 646,
+    "title": "Identify a suitable myrtle branch",
+    "group": "Four species",
+    "atomic": 4,
+    "bullets": [
+      "A valid hadas normally has three leaves emerging at one level.",
+      "Density along the required length and leaf loss matter.",
+      "Berries, dryness and a cut top have additional conditions."
+    ],
+    "parallel": "Look closely at the defining feature before choosing.",
+    "narration": "A myrtle branch has specific leaf-pattern requirements. Notice the actual structure before choosing; careful observation is more useful than assuming that every green branch qualifies.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.646",
+    "status": "Principle / details in source",
+    "video": "media/law-646.mp4"
+  },
+  {
+    "id": 647,
+    "title": "Identify the willow species",
+    "group": "Four species",
+    "atomic": 10,
+    "bullets": [
+      "The willow has identifying leaf and stem characteristics.",
+      "A similar-looking alternative species may be invalid.",
+      "Dryness, loss of leaves and a cut tip can invalidate a branch."
+    ],
+    "parallel": "Satisfy the real need with the correct item, not a tempting look-alike.",
+    "narration": "The mitzvah requires the correct willow species and condition. Identify what is actually needed; an appealing substitute does not become valid simply because it is convenient.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.647",
+    "status": "Principle / details in source",
+    "video": "media/law-647.mp4"
+  },
+  {
+    "id": 648,
+    "title": "Examine the etrog and its provenance",
+    "group": "Four species",
+    "atomic": 19,
+    "bullets": [
+      "Check dryness, missing material, the top, stem, stains and shape.",
+      "A naturally absent pitam differs from one that broke off.",
+      "Minimum size is an egg\u2019s volume; grafting requires reliable provenance."
+    ],
+    "parallel": "Learn one inspection skill at a time without overlooking validity.",
+    "narration": "An etrog has rules about defects and reliable provenance. Learn its inspection carefully, one skill at a time; gradual learning never excuses using an invalid specimen.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.648",
+    "status": "Principle / details in source",
+    "video": "media/law-648.mp4"
+  },
+  {
+    "id": 649,
+    "title": "Distinguish first-day and later-day defects",
+    "group": "Four species",
+    "atomic": 20,
+    "bullets": [
+      "Stolen species are unacceptable; acquisition details need careful review.",
+      "Some defects differ between the first day and later days.",
+      "Sephardic and Ashkenazic rulings differ on several invalidities."
+    ],
+    "parallel": "Recheck the context rather than applying yesterday\u2019s rule automatically.",
+    "narration": "Some four-species defects have different first-day and later-day rules. Review the context instead of repeating yesterday\u2019s judgment automatically; correct practice includes thoughtful reassessment.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.649",
+    "status": "Principle / details in source",
+    "video": "media/law-649.mp4"
+  },
+  {
+    "id": 650,
+    "title": "Check the species measurements",
+    "group": "Four species",
+    "atomic": 14,
+    "bullets": [
+      "The lulav spine requires four tefachim.",
+      "Myrtle and willow require three tefachim.",
+      "The lulav spine must extend above the other branches; measurement traditions differ."
+    ],
+    "parallel": "Prepare a suitable measuring tool before shopping.",
+    "narration": "The species have minimum measurements in tefachim. Prepare an appropriate measuring tool before shopping; deciding in advance reduces friction while preserving the actual requirement.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.650",
+    "status": "Principle / details in source",
+    "video": "media/law-650.mp4"
+  },
+  {
+    "id": 651,
+    "title": "Take all four species correctly",
+    "group": "Four species",
+    "atomic": 11,
+    "bullets": [
+      "Use one lulav, three myrtle branches, two willow branches and one etrog.",
+      "Take them in their growth orientation; bless before completing the act.",
+      "Handedness, binding, shaking order and interpositions have tradition-specific details."
+    ],
+    "parallel": "Practise the sequence before the festival; the complete mitzvah remains required.",
+    "narration": "All four species belong in the mitzvah, with the correct arrangement and orientation. Practise the sequence beforehand; rehearsal helps, but never replaces the complete required act.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.651",
+    "status": "Principle / details in source",
+    "video": "media/law-651.mp4"
+  },
+  {
+    "id": 652,
+    "title": "Use the daytime opportunity",
+    "group": "Four species",
+    "atomic": 5,
+    "bullets": [
+      "Taking the species is a daytime mitzvah.",
+      "The whole day is available; prompt performance is preferred.",
+      "A missed morning can be recovered later that day."
+    ],
+    "parallel": "Use a morning cue and a same-day recovery reminder.",
+    "narration": "Taking the four species is a daytime mitzvah. Set a morning cue and a same-day recovery reminder, so a missed first opportunity does not become a missed day.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.652",
+    "status": "Principle / details in source",
+    "video": "media/law-652.mp4"
+  },
+  {
+    "id": 653,
+    "title": "Respect designated fragrance use",
+    "group": "Four species",
+    "atomic": 7,
+    "bullets": [
+      "Myrtle designated for the mitzvah must not be used for smelling.",
+      "Avoid smelling the mitzvah etrog because of the blessing dispute.",
+      "Designation and preparation affect which restrictions apply."
+    ],
+    "parallel": "Keep a separate fragrance available instead of using a restricted shortcut.",
+    "narration": "The mitzvah myrtle has restrictions on fragrance use. Keep a separate alternative nearby; removing an unnecessary temptation makes respectful practice easier.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.653",
+    "status": "Principle / details in source",
+    "video": "media/law-653.mp4"
+  },
+  {
+    "id": 654,
+    "title": "Keep the species fresh correctly",
+    "group": "Four species",
+    "atomic": 12,
+    "bullets": [
+      "The source permits returning the lulav to water on Yom Tov.",
+      "Adding water and replacing water have different festival rules.",
+      "Chol HaMoed allows the appropriate freshness routine."
+    ],
+    "parallel": "Prepare storage and an allowed care checklist in advance.",
+    "narration": "Caring for the species has festival-specific rules. Prepare storage and an allowed care checklist; reducing setup effort supports care without making every maintenance action permitted.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.654",
+    "status": "Principle / details in source",
+    "video": "media/law-654.mp4"
+  },
+  {
+    "id": 655,
+    "title": "Plan transport before the festival",
+    "group": "Four species",
+    "atomic": 14,
+    "bullets": [
+      "Species brought from beyond the festival boundary have a specific case ruling.",
+      "Permission for the item does not permit every transport instruction.",
+      "Asking someone to do prohibited work requires separate evaluation."
+    ],
+    "parallel": "Set logistics beforehand rather than improvising an unlawful shortcut.",
+    "narration": "Transport has festival restrictions even when a brought item can be used. Plan logistics beforehand; commitment devices should prevent rushed shortcuts, not authorize prohibited work.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.655",
+    "status": "Principle / details in source",
+    "video": "media/law-655.mp4"
+  },
+  {
+    "id": 656,
+    "title": "Balance beauty and resources",
+    "group": "Four species",
+    "atomic": 8,
+    "bullets": [
+      "Beautifying a mitzvah can require additional expenditure within defined limits.",
+      "The one-third rule has details concerning what is compared.",
+      "Resources and obligation affect the practical financial ruling."
+    ],
+    "parallel": "Make the preparation appealing within a responsible budget.",
+    "narration": "Beautifying the mitzvah has defined financial rules. Make preparation appealing within a responsible budget; attractiveness supports effort without turning every enhancement into an unlimited obligation.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.656",
+    "status": "Principle / details in source",
+    "video": "media/law-656.mp4"
+  },
+  {
+    "id": 657,
+    "title": "Teach children through real practice",
+    "group": "Four species",
+    "atomic": 13,
+    "bullets": [
+      "A child able to perform the shaking receives practical mitzvah education.",
+      "Give age-appropriate instruction and suitable species access.",
+      "First-day ownership must be handled carefully before giving a set to a child."
+    ],
+    "parallel": "Begin instruction with one manageable rehearsal, then teach the whole act.",
+    "narration": "Children learn the mitzvah through suitable practice. Begin teaching with a manageable rehearsal, then teach the complete act; a small learning step does not reduce the mitzvah.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.657",
+    "status": "Principle / details in source",
+    "video": "media/law-657.mp4"
+  },
+  {
+    "id": 658,
+    "title": "Ownership and the Shabbat exception",
+    "group": "Four species",
+    "atomic": 17,
+    "bullets": [
+      "Do not take the four species on Shabbat.",
+      "First-day fulfilment requires ownership, not an ordinary loan.",
+      "A conditional gift works only if its return conditions are fulfilled."
+    ],
+    "parallel": "Use a clear agreement and check the festival calendar.",
+    "narration": "The four species are not taken on Shabbat. First-day ownership also matters; use a clear agreement and calendar check, rather than treating possession as enough.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.658",
+    "status": "Principle / details in source",
+    "video": "media/law-658.mp4"
+  },
+  {
+    "id": 659,
+    "title": "Use the correct festival Torah readings",
+    "group": "Festival practice",
+    "atomic": 6,
+    "bullets": [
+      "The chapter specifies the festival Torah readings and maftir.",
+      "The schedule follows the festival and location.",
+      "Use the local synagogue\u2019s calendar rather than extrapolating from another place."
+    ],
+    "parallel": "Keep the correct calendar where it will be used.",
+    "narration": "Festival Torah readings follow the correct day and location. Keep the local calendar visible; a well-placed cue makes accuracy easier during a busy week.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.659",
+    "status": "Principle / details in source",
+    "video": "media/law-659.mp4"
+  },
+  {
+    "id": 660,
+    "title": "Follow the Hoshanot custom",
+    "group": "Festival practice",
+    "atomic": 9,
+    "bullets": [
+      "The chapter describes daily circling and seven circuits on the seventh day.",
+      "Shabbat, possession of species and mourning affect participation customs.",
+      "Follow the synagogue\u2019s order and do not invent a universal arrangement."
+    ],
+    "parallel": "Let a knowledgeable community guide a shared routine.",
+    "narration": "Hoshanot has day-specific practices and community customs. Join the correct local order; a supportive group helps participation without erasing differences between traditions.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.660",
+    "status": "Principle / details in source",
+    "video": "media/law-660.mp4"
+  },
+  {
+    "id": 661,
+    "title": "Notice the second-night difference",
+    "group": "Festival practice",
+    "atomic": 4,
+    "bullets": [
+      "This chapter addresses the second festival night in the Diaspora.",
+      "Its Kiddush sequence differs from the first-night sequence.",
+      "Israel does not observe a second Sukkot festival day in the same way."
+    ],
+    "parallel": "Observe which day and location you are in before acting.",
+    "narration": "The second festival night has a different Kiddush context in the Diaspora. Notice the day and location before acting; awareness prevents copying the wrong routine.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.661",
+    "status": "Principle / details in source",
+    "video": "media/law-661.mp4"
+  },
+  {
+    "id": 662,
+    "title": "Continue without repeating every first-day blessing",
+    "group": "Festival practice",
+    "atomic": 16,
+    "bullets": [
+      "The taking blessing continues on eligible festival days.",
+      "Shehecheyanu is not repeated routinely for the species on day two.",
+      "If day one was Shabbat, the first actual taking has its own blessing sequence."
+    ],
+    "parallel": "Track completion accurately while respecting each day\u2019s conditions.",
+    "narration": "Festival practice continues, but first-time blessings are not repeated automatically. Track the actual completed action and the day\u2019s conditions, rather than confusing a streak with correct practice.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.662",
+    "status": "Principle / details in source",
+    "video": "media/law-662.mp4"
+  },
+  {
+    "id": 663,
+    "title": "Follow the Chol HaMoed reading schedule",
+    "group": "Festival practice",
+    "atomic": 6,
+    "bullets": [
+      "The Torah-reading order follows the current festival day.",
+      "Israel and Diaspora reading arrangements differ.",
+      "Shabbat Chol HaMoed has a distinct reading and haftarah."
+    ],
+    "parallel": "Place a correct day-by-day reference beside the routine.",
+    "narration": "Chol HaMoed readings depend on the day and location. Place the correct reference beside your routine; environment design helps prevent an automatic but inaccurate choice.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.663",
+    "status": "Principle / details in source",
+    "video": "media/law-663.mp4"
+  },
+  {
+    "id": 664,
+    "title": "Prepare separately for Hoshana Rabbah",
+    "group": "Festival practice",
+    "atomic": 15,
+    "bullets": [
+      "Hoshana Rabbah has additional prayer and willow customs.",
+      "The separate willow practice has no blessing.",
+      "Arrange appropriate branches and follow your community\u2019s handling and disposal customs."
+    ],
+    "parallel": "Prepare the materials and enjoy completion without inventing a reward ritual.",
+    "narration": "Hoshana Rabbah has a separate willow custom without a blessing. Prepare suitable branches in advance; a satisfying finish can support preparation without inventing a new religious ritual.",
+    "source": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.664",
+    "status": "Principle / details in source",
+    "video": "media/law-664.mp4"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "Small actions accumulate",
+    "group": "Foundations",
+    "idea": "Repeat a useful action before chasing a dramatic result.",
+    "bullets": [
+      "Direction matters.",
+      "Results can arrive late.",
+      "Design a repeatable system."
+    ],
+    "example": "Practise one keyboard shortcut each morning instead of redesigning your whole workflow.",
+    "action": "Repeat one tiny improvement today.",
+    "scene": "An adult practising one keyboard shortcut at a calm desk; calendar pages change and the task becomes smoother.",
+    "source": "https://jamesclear.com/atomic-habits-summary",
+    "narration": "Repeat a useful action before chasing a dramatic result. Repeat one tiny improvement today.",
+    "video": null
+  },
+  {
+    "id": 2,
+    "title": "Build evidence for your identity",
+    "group": "Foundations",
+    "idea": "Small actions make a new self-image more believable.",
+    "bullets": [
+      "Choose who you want to become.",
+      "Collect small examples.",
+      "Allow your identity to evolve."
+    ],
+    "example": "Someone who wants to be considerate puts their phone away during one conversation.",
+    "action": "Choose one action that supports your desired identity.",
+    "scene": "An adult sets down a phone, listens carefully to a friend and smiles.",
+    "source": "https://jamesclear.com/identity-based-habits",
+    "narration": "Small actions make a new self-image more believable. Choose one action that supports your desired identity.",
+    "video": null
+  },
+  {
+    "id": 3,
+    "title": "Understand the habit loop",
+    "group": "Foundations",
+    "idea": "Look for the signal, desire, action and payoff behind a repeated behaviour.",
+    "bullets": [
+      "Notice the cue.",
+      "Name the desired feeling.",
+      "Examine the actual reward."
+    ],
+    "example": "A notification creates curiosity; opening the app briefly relieves it.",
+    "action": "Map one routine from signal to payoff.",
+    "scene": "Phone notification, an adult glances at the phone, opens it and then reflects beside a notebook.",
+    "source": "https://jamesclear.com/atomic-habits-summary",
+    "narration": "Look for the signal, desire, action and payoff behind a repeated behaviour. Map one routine from signal to payoff.",
+    "video": null
+  },
+  {
+    "id": 4,
+    "title": "Notice your autopilot",
+    "group": "Obvious",
+    "idea": "You can change a routine more deliberately after noticing it.",
+    "bullets": [
+      "List existing routines.",
+      "Assess which help your aims.",
+      "Observe without self-criticism."
+    ],
+    "example": "Record what happens between closing your laptop and going to bed.",
+    "action": "Write down five routines you usually overlook.",
+    "scene": "An adult observes their evening routine and records simple symbols on blank paper.",
+    "source": "https://jamesclear.com/habits-scorecard",
+    "narration": "You can change a routine more deliberately after noticing it. Write down five routines you usually overlook.",
+    "video": null
+  },
+  {
+    "id": 5,
+    "title": "Give your action a clear cue",
+    "group": "Obvious",
+    "idea": "Choose a definite moment or attach the action to an existing routine.",
+    "bullets": [
+      "Specify when and where.",
+      "Choose a reliable anchor.",
+      "Keep the sequence simple."
+    ],
+    "example": "After watering the plant, clear one item from the desk.",
+    "action": "Complete: After ___, I will ___.",
+    "scene": "An adult waters a small plant then immediately clears one object from their desk.",
+    "source": "https://jamesclear.com/habit-stacking",
+    "narration": "Choose a definite moment or attach the action to an existing routine. Complete: After ___, I will ___.",
+    "video": null
+  },
+  {
+    "id": 6,
+    "title": "Let your surroundings remind you",
+    "group": "Obvious",
+    "idea": "Place helpful cues where the action should happen.",
+    "bullets": [
+      "Make useful objects visible.",
+      "Give activities a clear space.",
+      "Prepare the environment in advance."
+    ],
+    "example": "Put a language-practice card beside the kettle.",
+    "action": "Move one helpful cue into view.",
+    "scene": "An adult places a study card beside a kettle, then picks it up while water heats.",
+    "source": "https://jamesclear.com/power-of-environment",
+    "narration": "Place helpful cues where the action should happen. Move one helpful cue into view.",
+    "video": null
+  },
+  {
+    "id": 7,
+    "title": "Remove unnecessary temptation",
+    "group": "Obvious",
+    "idea": "Reduce exposure to cues that trigger an unwanted routine.",
+    "bullets": [
+      "Hide distracting cues.",
+      "Avoid repeated battles of willpower.",
+      "Keep helpful alternatives nearby."
+    ],
+    "example": "Place the game controller in a drawer before a study session.",
+    "action": "Remove one cue before the next difficult moment.",
+    "scene": "An adult puts a game controller in a closed drawer, then sits at a quiet study desk.",
+    "source": "https://jamesclear.com/atomic-habits/endnotes",
+    "narration": "Reduce exposure to cues that trigger an unwanted routine. Remove one cue before the next difficult moment.",
+    "video": null
+  },
+  {
+    "id": 8,
+    "title": "Make the routine appealing",
+    "group": "Attractive",
+    "idea": "Connect a useful action with something you enjoy.",
+    "bullets": [
+      "Anticipation can motivate.",
+      "Pair a useful and enjoyable activity.",
+      "Keep the pairing compatible."
+    ],
+    "example": "Listen to a favourite instrumental playlist while sorting paperwork.",
+    "action": "Choose a pleasure that fits your useful action.",
+    "scene": "An adult puts on headphones and happily sorts a small stack of papers.",
+    "source": "https://jamesclear.com/temptation-bundling",
+    "narration": "Connect a useful action with something you enjoy. Choose a pleasure that fits your useful action.",
+    "video": null
+  },
+  {
+    "id": 9,
+    "title": "Choose a supportive social setting",
+    "group": "Attractive",
+    "idea": "People around you help define what feels normal.",
+    "bullets": [
+      "Notice what your group encourages.",
+      "Join people with compatible routines.",
+      "Make belonging support your goal."
+    ],
+    "example": "Join a weekly sketching circle where practising is normal.",
+    "action": "Find one group that already practises your chosen behaviour.",
+    "scene": "Three adult friends sit at a shared table sketching simple objects together.",
+    "source": "https://jamesclear.com/life-team-sport",
+    "narration": "People around you help define what feels normal. Find one group that already practises your chosen behaviour.",
+    "video": null
+  },
+  {
+    "id": 10,
+    "title": "Find the need behind the habit",
+    "group": "Attractive",
+    "idea": "An unwanted action may be an attempt to meet a real need.",
+    "bullets": [
+      "Identify the feeling you seek.",
+      "Reconsider the habit\u2019s appeal.",
+      "Try a better response to that need."
+    ],
+    "example": "If shopping follows loneliness, test calling a friend before browsing.",
+    "action": "Name the need and one alternative response.",
+    "scene": "An adult pauses while browsing a shopping page and chooses to call a friend.",
+    "source": "https://jamesclear.com/atomic-habits/endnotes",
+    "narration": "An unwanted action may be an attempt to meet a real need. Name the need and one alternative response.",
+    "video": null
+  },
+  {
+    "id": 11,
+    "title": "Practise instead of only preparing",
+    "group": "Easy",
+    "idea": "Repetition builds familiarity; endless planning can delay action.",
+    "bullets": [
+      "Preparation is useful but limited.",
+      "Perform the real behaviour.",
+      "Count meaningful attempts."
+    ],
+    "example": "Record a short spoken sentence rather than collecting more speaking tips.",
+    "action": "Do one small real attempt now.",
+    "scene": "An adult closes a pile of notes and records one spoken sentence into a desk microphone.",
+    "source": "https://jamesclear.com/atomic-habits/endnotes",
+    "narration": "Repetition builds familiarity; endless planning can delay action. Do one small real attempt now.",
+    "video": null
+  },
+  {
+    "id": 12,
+    "title": "Remove steps from the good habit",
+    "group": "Easy",
+    "idea": "An action is easier to repeat when fewer obstacles stand in its way.",
+    "bullets": [
+      "Reduce setup effort.",
+      "Prepare the next session.",
+      "Add friction to unwanted actions."
+    ],
+    "example": "Leave drawing tools arranged on a tray after practice.",
+    "action": "Remove one setup step.",
+    "scene": "An adult arranges pencils and a sketchpad neatly so the next drawing session starts immediately.",
+    "source": "https://jamesclear.com/reset-the-room",
+    "narration": "An action is easier to repeat when fewer obstacles stand in its way. Remove one setup step.",
+    "video": null
+  },
+  {
+    "id": 13,
+    "title": "Start with a two-minute version",
+    "group": "Easy",
+    "idea": "Make the beginning so small that showing up feels manageable.",
+    "bullets": [
+      "Shrink the entry action.",
+      "Establish it before expanding.",
+      "Let it lead to a larger routine."
+    ],
+    "example": "Open the language app and practise one sound.",
+    "action": "Write the smallest honest version of your habit.",
+    "scene": "An adult opens a language lesson and carefully speaks a single sound.",
+    "source": "https://jamesclear.com/how-to-stop-procrastinating",
+    "narration": "Make the beginning so small that showing up feels manageable. Write the smallest honest version of your habit.",
+    "video": null
+  },
+  {
+    "id": 14,
+    "title": "Prepare your future choice",
+    "group": "Easy",
+    "idea": "Make a useful decision in advance so you need fewer later decisions.",
+    "bullets": [
+      "Use supportive defaults.",
+      "Commit before temptation arrives.",
+      "Review automated choices periodically."
+    ],
+    "example": "Set an app timer before the evening starts.",
+    "action": "Set one reversible commitment for tomorrow.",
+    "scene": "An adult sets a screen-time timer, places the phone down and begins a calm evening routine.",
+    "source": "https://jamesclear.com/procrastination",
+    "narration": "Make a useful decision in advance so you need fewer later decisions. Set one reversible commitment for tomorrow.",
+    "video": null
+  },
+  {
+    "id": 15,
+    "title": "Give progress an immediate payoff",
+    "group": "Satisfying",
+    "idea": "A small positive finish can help a useful action feel worth repeating.",
+    "bullets": [
+      "Long-term benefits may be delayed.",
+      "Add a suitable immediate reward.",
+      "Avoid rewards that undo the purpose."
+    ],
+    "example": "After tidying one shelf, pause to enjoy the clear space.",
+    "action": "Choose a small satisfying finish.",
+    "scene": "An adult tidies one shelf, steps back and enjoys the clean space.",
+    "source": "https://jamesclear.com/atomic-habits/endnotes",
+    "narration": "A small positive finish can help a useful action feel worth repeating. Choose a small satisfying finish.",
+    "video": null
+  },
+  {
+    "id": 16,
+    "title": "Make consistency visible",
+    "group": "Satisfying",
+    "idea": "A simple record helps you notice repetition and recover after a lapse.",
+    "bullets": [
+      "Track the action honestly.",
+      "Restart after a missed opportunity.",
+      "Check quality as well as counts."
+    ],
+    "example": "Mark each completed pronunciation practice; note one sound that improved.",
+    "action": "Record today\u2019s action, then plan the next chance.",
+    "scene": "An adult marks a calendar, notices a missed square and calmly marks the next completed day.",
+    "source": "https://jamesclear.com/habit-tracker",
+    "narration": "A simple record helps you notice repetition and recover after a lapse. Record today\u2019s action, then plan the next chance.",
+    "video": null
+  },
+  {
+    "id": 17,
+    "title": "Use supportive accountability",
+    "group": "Satisfying",
+    "idea": "A clear agreement with another person can make follow-through more noticeable.",
+    "bullets": [
+      "Specify the behaviour.",
+      "Arrange a check-in.",
+      "Use proportionate consequences."
+    ],
+    "example": "Tell a study partner which session you will complete and when you will report back.",
+    "action": "Write one precise check-in agreement.",
+    "scene": "Two adults agree on a practice session, then one checks in after completing it.",
+    "source": "https://jamesclear.com/atomic-habits/endnotes",
+    "narration": "A clear agreement with another person can make follow-through more noticeable. Write one precise check-in agreement.",
+    "video": null
+  },
+  {
+    "id": 18,
+    "title": "Choose a practice that fits you",
+    "group": "Mastery",
+    "idea": "Your strengths and preferences can help you choose a promising field of effort.",
+    "bullets": [
+      "Explore before committing.",
+      "Notice where you improve readily.",
+      "Fit is useful; effort still matters."
+    ],
+    "example": "Test sketching, audio editing and writing; compare energy and progress.",
+    "action": "Try two approaches and compare your response.",
+    "scene": "An adult tries sketching, recording and writing at three small workspaces.",
+    "source": "https://jamesclear.com/deliberate-practice-myth",
+    "narration": "Your strengths and preferences can help you choose a promising field of effort. Try two approaches and compare your response.",
+    "video": null
+  },
+  {
+    "id": 19,
+    "title": "Keep the challenge manageable",
+    "group": "Mastery",
+    "idea": "A task just beyond your current ability can keep practice engaging.",
+    "bullets": [
+      "Avoid boredom and overload.",
+      "Increase difficulty gradually.",
+      "Continue through ordinary sessions."
+    ],
+    "example": "Practise a slightly harder rhythm after a basic one becomes easy.",
+    "action": "Make one small adjustment to difficulty.",
+    "scene": "An adult musician practises a simple rhythm, then tries a slightly more demanding rhythm.",
+    "source": "https://jamesclear.com/goldilocks-rule",
+    "narration": "A task just beyond your current ability can keep practice engaging. Make one small adjustment to difficulty.",
+    "video": null
+  },
+  {
+    "id": 20,
+    "title": "Review the routine to keep improving",
+    "group": "Mastery",
+    "idea": "Automatic repetition can hide mistakes; reflection and focused practice help you improve.",
+    "bullets": [
+      "Inspect your results periodically.",
+      "Practise the weak component.",
+      "Keep your self-image flexible."
+    ],
+    "example": "Review a recording, identify one unclear sound, and practise it deliberately.",
+    "action": "Choose one routine to review this week.",
+    "scene": "An adult listens to their own recording, notices one weak point and carefully repeats it.",
+    "source": "https://jamesclear.com/deliberate-practice-myth",
+    "narration": "Automatic repetition can hide mistakes; reflection and focused practice help you improve. Choose one routine to review this week.",
+    "video": null
+  }
+]
